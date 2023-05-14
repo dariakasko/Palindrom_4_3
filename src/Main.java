@@ -12,6 +12,7 @@ public class Main {
         char[] arrayOfChars = strToVerifyLower.toCharArray(); //division of string to symbols into array
 
         isPalindrome(arrayOfChars);
+        System.out.print("TO GIT" );
 
     }
     static boolean isPalindrome(char[] array){
